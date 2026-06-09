@@ -4,7 +4,9 @@
 
 I build **AI agents, business automation, and fast websites** — the practical, revenue-adjacent software that saves teams hours every week and keeps running after handoff. I care about clean, readable code, working demos, and shipping.
 
-📍 Wichita Falls, TX · 🐍 Python + 🟨 JavaScript · 🤖 Gemini / LLM agents · 🔥 Firebase
+📍 Wichita Falls, TX · 🐍 Python + 🟨 JavaScript · 🤖 LLM agents · 🔥 Firebase
+
+> 🏢 I run **[Kobey Dev Services](https://github.com/git-agent-swarm)** — my client work and flagship projects live there.
 
 ---
 
@@ -14,13 +16,13 @@ I build **AI agents, business automation, and fast websites** — the practical,
 
 ---
 
-### 🚀 Featured projects
+### 🚀 Flagship projects — [Kobey Dev Services](https://github.com/git-agent-swarm)
 
 | Project | What it does |
 | --- | --- |
-| **[gemini-research-agent](https://github.com/broussardkobey67-spec/gemini-research-agent)** | Autonomous research agent on Google Gemini — plans focused web searches, reads results, and writes a clear answer with inline citations. Compact, readable Python (~300 lines of core logic). |
-| **[leadgen-automator](https://github.com/broussardkobey67-spec/leadgen-automator)** | CLI tool that finds local businesses with weak websites, scores the opportunity, and drafts personalized outreach — automating the top of a freelance sales funnel. |
-| **[smallbiz-website](https://github.com/broussardkobey67-spec/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses. Plain HTML/CSS/JS, no build step. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
+| **[gemini-research-agent](https://github.com/git-agent-swarm/gemini-research-agent)** | Autonomous research agent — plans focused web searches, reads results, and writes a clear answer with inline citations. Compact, readable Python. |
+| **[leadgen-automator](https://github.com/git-agent-swarm/leadgen-automator)** | CLI that finds local businesses with weak websites, scores the opportunity, and drafts personalized outreach. |
+| **[smallbiz-website](https://github.com/git-agent-swarm/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses, with Firestore lead capture. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
 
 ### 🧰 More working samples (all run, all documented)
 
@@ -33,8 +35,8 @@ I build **AI agents, business automation, and fast websites** — the practical,
 
 ### 🛠️ Tech I work with
 
-`Python` · `JavaScript` · `Google Gemini / LLM agents` · `Firebase` · `Playwright / Selenium / Scrapy` · `pandas` · `REST APIs` · `HTML / CSS` · `automation & scheduling`
+`Python` · `JavaScript` · `LLM agents` · `Firebase` · `Playwright / Selenium / Scrapy` · `pandas` · `REST APIs` · `HTML / CSS` · `automation & scheduling`
 
 ---
 
-📫 **Looking to hire?** Browse the live demo at **[cedarstone-demo.web.app](https://cedarstone-demo.web.app)** or reach out — let's build something that pays for itself.
+📫 **Looking to hire?** Live demo at **[cedarstone-demo.web.app](https://cedarstone-demo.web.app)** · services at **[kobeydev.web.app](https://kobeydev.web.app)** — let's build something that pays for itself.
