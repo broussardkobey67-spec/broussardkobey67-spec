@@ -18,26 +18,27 @@ I’m happy to start with a small first milestone so you can judge the work befo
 
 ---
 
-### 🚀 Flagship projects — [Kobey Dev Services](https://github.com/git-agent-swarm)
+### 🚀 Public proof — 10+ inspectable examples
 
 | Project | What it does |
 | --- | --- |
+| **[Kobey Dev Services](https://github.com/git-agent-swarm/kobey-dev-services)** | Main proof hub: services, live demos, public credibility links, Firebase Hosting, and contact flow. 🔗 **[Live site →](https://kobeydev.web.app)** |
+| **[VoltWorks Electrical demo](https://kobeydev.web.app/demos/voltworks/)** | Client-style electrical contractor website: premium trade visuals, service pages, quote estimator, emergency intake, project proof, and responsive layout. |
+| **[VitalLoop health app demo](https://kobeydev.web.app/demos/vitalloop/)** | Interactive health/wellness app dashboard: progress filters, task completion, sleep chart, medication list, appointment card, meals, hydration, and symptom notes. |
 | **[gemini-research-agent](https://github.com/git-agent-swarm/gemini-research-agent)** | Autonomous research agent — plans focused web searches, reads results, and writes a clear answer with inline citations. Compact, readable Python. |
 | **[leadgen-automator](https://github.com/git-agent-swarm/leadgen-automator)** | CLI that finds local businesses with weak websites, scores the opportunity, and drafts personalized outreach. |
 | **[invoice-followup-automation](https://github.com/git-agent-swarm/invoice-followup-automation)** | Small-business workflow demo: invoice CSV in, overdue queue, email drafts, and HTML dashboard out. |
 | **[smallbiz-website](https://github.com/git-agent-swarm/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses, with Firestore lead capture. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
 
-### 🎮 Complete games — built for Reddit's developer platform (Devvit)
+### 🎮 Game sample — built for Reddit's developer platform (Devvit)
 
 | Game | What it is |
 | --- | --- |
 | **[karmaclimb](https://github.com/git-agent-swarm/karmaclimb)** | 🧗 Higher-or-Lower with real Reddit upvotes — daily community climbs, streaks, leaderboards, spoiler-free share cards. |
-| **[emberfall](https://github.com/git-agent-swarm/emberfall)** | 🔥 Momentum action-platformer on a custom WebGL engine — the whole community races the same deterministic daily course. |
-| **[emojigma](https://github.com/git-agent-swarm/emojigma)** | 🧩 Community emoji-riddle game — players create the puzzles, everyone races to solve. |
 
-Serverless backends, Redis data models, strict platform budgets, UGC-safety by design — all TypeScript, React, and custom engine code.
+Serverless backend, Redis data model, strict platform budget, UGC-safety by design, and TypeScript/React app code.
 
-### 🧰 More working samples (all run, all documented)
+### 🧰 More working samples
 
 - **[web-scraper-toolkit](https://github.com/broussardkobey67-spec/web-scraper-toolkit)** — config-driven scraper: YAML in, clean CSV/Excel out. Pagination, rate-limiting, retries, dedupe, optional Playwright for JS-heavy sites.
 - **[api-report-automation](https://github.com/broussardkobey67-spec/api-report-automation)** — schedule-ready tool that pulls live API data and renders CSV + chart + standalone HTML report.
