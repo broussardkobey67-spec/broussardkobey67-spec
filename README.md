@@ -2,17 +2,19 @@
 
 ### AI Automation & Full-Stack Developer
 
-I build **AI agents, business automation, and fast websites** — the practical, revenue-adjacent software that saves teams hours every week and keeps running after handoff. I care about clean, readable code, working demos, and shipping.
+I run **[Kobey Dev Services](https://github.com/git-agent-swarm)** and build practical software for small businesses: **AI agents, workflow automation, fast websites, dashboards, scraping/data cleanup, and clear technical documentation**.
 
-📍 Wichita Falls, TX · 🐍 Python + 🟨 JavaScript · 🤖 LLM agents · 🔥 Firebase
+📍 Wichita Falls, TX · 📞 **(337) 495-6990** · ✉️ **kobey@buythebest.net** · 🐍 Python + 🟨 JavaScript · 🤖 LLM agents · 🔥 Firebase
 
-> 🏢 I run **[Kobey Dev Services](https://github.com/git-agent-swarm)** — my client work and flagship projects live there.
+> Start here: **[kobeydev.web.app](https://kobeydev.web.app)** — services, live demos, contact form, and public proof.
 
 ---
 
 ### 💼 Available for freelance & contract work
 
-**AI agents · workflow automation · websites & web apps.** I'm happy to start with a small first job so you can judge the work before scaling up. Clear communication, visible progress, code you can actually maintain.
+**AI agents · workflow automation · websites & web apps · scraping/data cleanup · dashboards · writing/docs.**
+
+I’m happy to start with a small first milestone so you can judge the work before scaling up. Clear scope, visible progress, documented handoff, and code you can actually maintain.
 
 ---
 
@@ -41,12 +43,18 @@ Serverless backends, Redis data models, strict platform budgets, UGC-safety by d
 - **[options-screener](https://github.com/broussardkobey67-spec/options-screener)** — US options screener (yfinance + pandas): filters live chains by DTE, OI, IV, moneyness, and risk/reward; exports top trades to CSV + Plotly.
 - **[nifty-straddle-backtest](https://github.com/broussardkobey67-spec/nifty-straddle-backtest)** — intraday short-straddle backtest engine: stop-loss, re-entry, enforced no-overnight square-off, full P&L report.
 
+### 🏅 Public credibility
+
+- **[Google Developer Program profile](https://me.developers.google.com/u/116492041557080639666)** — Gemini Enterprise Agent Ready, Firebase Studio Developer Community, Google Maps Platform Innovators, Google Cloud & NVIDIA community, and other badges.
+- **Firebase-hosted demos** — [kobeydev.web.app](https://kobeydev.web.app) and [cedarstone-demo.web.app](https://cedarstone-demo.web.app).
+- **Public code** on GitHub + GitLab so clients can inspect the work.
+
 ---
 
 ### 🛠️ Tech I work with
 
-`Python` · `JavaScript` · `LLM agents` · `Firebase` · `Playwright / Selenium / Scrapy` · `pandas` · `REST APIs` · `HTML / CSS` · `automation & scheduling`
+`Python` · `JavaScript / TypeScript` · `LLM agents` · `Firebase / Firestore` · `Playwright / Selenium / Scrapy` · `pandas` · `REST APIs` · `HTML / CSS` · `automation & scheduling` · `technical writing`
 
 ---
 
-📫 **Looking to hire?** Live demo at **[cedarstone-demo.web.app](https://cedarstone-demo.web.app)** · services at **[kobeydev.web.app](https://kobeydev.web.app)** — let's build something that pays for itself.
+📫 **Looking to hire?** Services and contact: **[kobeydev.web.app](https://kobeydev.web.app)** · phone: **(337) 495-6990**
