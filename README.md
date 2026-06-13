@@ -24,6 +24,7 @@ I’m happy to start with a small first milestone so you can judge the work befo
 | --- | --- |
 | **[gemini-research-agent](https://github.com/git-agent-swarm/gemini-research-agent)** | Autonomous research agent — plans focused web searches, reads results, and writes a clear answer with inline citations. Compact, readable Python. |
 | **[leadgen-automator](https://github.com/git-agent-swarm/leadgen-automator)** | CLI that finds local businesses with weak websites, scores the opportunity, and drafts personalized outreach. |
+| **[invoice-followup-automation](https://github.com/git-agent-swarm/invoice-followup-automation)** | Small-business workflow demo: invoice CSV in, overdue queue, email drafts, and HTML dashboard out. |
 | **[smallbiz-website](https://github.com/git-agent-swarm/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses, with Firestore lead capture. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
 
 ### 🎮 Complete games — built for Reddit's developer platform (Devvit)
