@@ -18,7 +18,7 @@ I’m happy to start with a small first milestone so you can judge the work befo
 
 ---
 
-### 🚀 Public proof — 16+ inspectable examples
+### 🚀 Public proof — 17+ inspectable examples
 
 | Project | What it does |
 | --- | --- |
@@ -32,6 +32,7 @@ I’m happy to start with a small first milestone so you can judge the work befo
 | **[invoice-followup-automation](https://github.com/git-agent-swarm/invoice-followup-automation)** | Small-business workflow demo: invoice CSV in, overdue queue, email drafts, and HTML dashboard out. |
 | **[nvidia-nim-agent-demo](https://github.com/git-agent-swarm/nvidia-nim-agent-demo)** | NVIDIA NIM API proof: document analysis, code review, model selection, env-var secrets, and offline tests. |
 | **[auth0-jwt-api-demo](https://github.com/git-agent-swarm/auth0-jwt-api-demo)** | Auth0/OAuth API-security proof: RS256 JWT verification, JWKS, required scopes, and built-in Node tests. |
+| **[azure-functions-lead-router-demo](https://github.com/git-agent-swarm/azure-functions-lead-router-demo)** | Azure Functions-style lead intake: validation, urgency scoring, queue routing, owner notifications, and Python tests. |
 | **[smallbiz-website](https://github.com/git-agent-swarm/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses, with Firestore lead capture. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
 
 ### 🎮 Game sample — built for Reddit's developer platform (Devvit)
