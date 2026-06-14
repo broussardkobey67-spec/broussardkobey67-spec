@@ -18,7 +18,7 @@ I’m happy to start with a small first milestone so you can judge the work befo
 
 ---
 
-### 🚀 Public proof — 18+ inspectable examples
+### 🚀 Public proof — 19+ inspectable examples
 
 | Project | What it does |
 | --- | --- |
@@ -34,6 +34,7 @@ I’m happy to start with a small first milestone so you can judge the work befo
 | **[auth0-jwt-api-demo](https://github.com/git-agent-swarm/auth0-jwt-api-demo)** | Auth0/OAuth API-security proof: RS256 JWT verification, JWKS, required scopes, and built-in Node tests. |
 | **[azure-functions-lead-router-demo](https://github.com/git-agent-swarm/azure-functions-lead-router-demo)** | Azure Functions-style lead intake: validation, urgency scoring, queue routing, owner notifications, and Python tests. |
 | **[adobe-oauth-server-to-server-demo](https://github.com/git-agent-swarm/adobe-oauth-server-to-server-demo)** | Adobe OAuth Server-to-Server proof: client credentials request building, token caching, scope handling, redacted failures, and Node tests. |
+| **[jira-ticket-triage-demo](https://github.com/git-agent-swarm/jira-ticket-triage-demo)** | Jira workflow automation proof: intake triage, priority scoring, ADF descriptions, issue payloads, auth handling, and mocked tests. |
 | **[smallbiz-website](https://github.com/git-agent-swarm/smallbiz-website)** | Fast, fully responsive single-page site for local service businesses, with Firestore lead capture. 🔗 **[Live demo →](https://cedarstone-demo.web.app)** |
 
 ### 🎮 Game sample — built for Reddit's developer platform (Devvit)
