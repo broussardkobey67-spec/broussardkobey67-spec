@@ -4,7 +4,7 @@
 
 I run **[Kobey Dev Services](https://github.com/git-agent-swarm)** and build practical software for small businesses: **AI agents, workflow automation, fast websites, dashboards, scraping/data cleanup, and clear technical documentation**.
 
-📍 Wichita Falls, TX · 📞 **(337) 495-6990** · ✉️ **kobey@buythebest.net** · 🐍 Python + 🟨 JavaScript · 🤖 LLM agents · 🔥 Firebase
+📍 Wichita Falls, TX · 📞 **(337) 495-6990** · ✉️ **kobey@kobeydev.com** · 🐍 Python + 🟨 JavaScript · 🤖 LLM agents · 🔥 Firebase
 
 > Start here: **[kobeydev.web.app](https://kobeydev.web.app)** — services, live demos, contact form, and public proof.
 
